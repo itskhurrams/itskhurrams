@@ -12,4 +12,4 @@ Here are some ideas to get you started:
     📫 How to reach me: ... https://twitter.com/itskhurrams
     ⚡ Fun fact: ... Some times Code is scary but its really fun.
 
-@itskhurrams
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/itskhurrams.svg?style=social&label=Follow%20itskhurrams)](https://twitter.com/itskhurrams)
