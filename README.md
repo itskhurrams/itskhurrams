@@ -2,7 +2,8 @@
 
 Here are some ideas to get you started:
 
-    🔭 I’m currently working on ... Enterprise Us healthcare application along with state of the art Microservices implamentation.
+    🔭 I’m currently working on ... Enterprise Us healthcare application along with 
+        state of the art Microservices implamentation.
     📚 Learn Azure & AWS
     🌱 I’m currently learning ... Python for Data Science
     👯 I’m looking to collaborate on ... https://github.com/johnpapa/hello-worlds
