@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-    - 🔭 I’m currently working on ... Enterprise Us healthcare application along with 
-        state of the art Microservices implamentation.
-    - 📚 Learn Azure & AWS
+    - 🔭 I’m currently working on ... Social application using Blockchain along with 
+        my 9 to 5.
+    - 📚 Learning advanced Azure, AWS & GCP
     - 🌱 I’m currently learning ... Clean Architecture and Microservices with NodeJs and Python
     - 📝 I write stuff at https://medium.com/@itskhurrams and (https://dev.to/itskhurrams)
     - 💬 Ask me about ... Microservice with Clean Architecture using .NET Core
