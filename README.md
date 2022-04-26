@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
     - 🔭 I’m currently working on ... Social application using Blockchain along with 
-        my 9 to 5.
+        my 9 to 5 stuff.
     - 📚 Learning advanced Azure, AWS & GCP
     - 🌱 I’m currently learning ... Clean Architecture and Microservices with NodeJs and Python
     - 📝 I write stuff at https://medium.com/@itskhurrams and (https://dev.to/itskhurrams)
